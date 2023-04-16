@@ -1,13 +1,14 @@
 # Hi there 🤙🏼 It's Mario AKA davique
-<br />
+
 <a href="https://twitter.com/davique0">
-<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg" />
+<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg/gray" />
 </a>
 <a href="https://www.linkedin.com/in/mario-d-gutierrez">
 <img align="left" alt="Mario Gutierrez" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/linkedin.svg" />
 </a>
 
 <br />
+
 
 A full-stack developer focused on puzzles and problem solving, with a background in electronic engineering that allows for logic thinking and step-by-step solutions. Innovation drives me to seek faster and simpler ways to optimize processes, reducing time spent on repetitive tasks and improving overall performance. Having a sales background, my communication skills help me to assist people in understanding complex technical terms, bridging the gap between technical and common knowledge.
 
