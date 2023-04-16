@@ -1,10 +1,10 @@
 # Hi there 🤙🏼 It's Mario AKA davique
 
 <a href="https://twitter.com/davique0">
-<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitter.svg/gray" />
+<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mario-d-gutierrez">
-<img align="left" alt="Mario Gutierrez" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/linkedin.svg" />
+<img align="left" alt="Mario Gutierrez" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 
 <br />
