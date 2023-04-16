@@ -26,8 +26,6 @@ A full-stack developer focused on puzzles and problem solving, with a background
 
 <br />
 
-Here are some ideas to get you started:
-
 - 📫 How to reach me: ✉️ <davique@gmail.com>
 
 
