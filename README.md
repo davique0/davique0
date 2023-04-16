@@ -1,7 +1,7 @@
 # Hi there 🤙🏼 It's Mario AKA davique
 
 <a href="https://twitter.com/davique0">
-<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg/00ccff" />
+<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/gray" />
 </a>
 <a href="https://www.linkedin.com/in/mario-d-gutierrez">
 <img align="left" alt="Mario Gutierrez" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
