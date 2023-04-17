@@ -27,5 +27,6 @@ A full-stack developer focused on puzzles and problem solving, with a background
 <br />
 
 - 📫 How to reach me: ✉️ <davique@gmail.com>
+- Toronto, ON --- Soon --> Vancouver, BC, Canada
 
 
