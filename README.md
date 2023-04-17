@@ -20,7 +20,7 @@ A full-stack developer focused on puzzles and problem solving, with a background
 **🧪 Testing:** Storybook, Cypress, Jest, Mocha, Chai<br />
 
 
-| [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=davique0&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davique0&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=davique0&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davique0&layout=compact&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 
