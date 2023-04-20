@@ -17,11 +17,11 @@ A full-stack developer focused on puzzles and problem solving, with a background
 <img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/html5/#E34F26 />
 <img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/javascript/#F7DF1E />
 <img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/nextdotjs/#FFF />
+
+<br />
+
+<br />
 --->
-<br />
-
-<br />
-
 ### Skills
 **🌎 Languages:** JavaScript, Ruby, HTML, CSS<br />
 **🧮 Frameworks, Libraries, and Environments:** React, Next.JS Node.JS, Express, Axios, EJS, Rails, Ajax, jQuery, SASS, Bootstrap<br />
