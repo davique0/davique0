@@ -13,6 +13,8 @@
 
 A full-stack developer focused on puzzles and problem solving, with a background in electronic engineering that allows for logic thinking and step-by-step solutions. Innovation drives me to seek faster and simpler ways to optimize processes, reducing time spent on repetitive tasks and improving overall performance. Having a sales background, my communication skills help me to assist people in understanding complex technical terms, bridging the gap between technical and common knowledge.
 
+https://cdn.simpleicons.org/nextdotjs
+
 ### Skills
 **🌎 Languages:** JavaScript, Ruby, HTML, CSS<br />
 **🧮 Frameworks, Libraries, and Environments:** React, Next.JS Node.JS, Express, Axios, EJS, Rails, Ajax, jQuery, SASS, Bootstrap<br />
