@@ -14,7 +14,8 @@
 A full-stack developer focused on puzzles and problem solving, with a background in electronic engineering that allows for logic thinking and step-by-step solutions. Innovation drives me to seek faster and simpler ways to optimize processes, reducing time spent on repetitive tasks and improving overall performance. Having a sales background, my communication skills help me to assist people in understanding complex technical terms, bridging the gap between technical and common knowledge.
 
 <img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/html5/#E34F26 />
-<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src="https://cdn.simpleicons.org/nextdotjs/#FFF" />
+<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/javascript/#F7DF1E />
+<img align="left" alt="Mario Gutierrez | Twitter" width="22px" src=https://cdn.simpleicons.org/nextdotjs/#FFF />
 
 <br />
 
