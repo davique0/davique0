@@ -24,8 +24,8 @@ A full-stack developer focused on puzzles and problem solving, with a background
 --->
 ### Skills
 **🌎 Languages:** JavaScript, Ruby, HTML, CSS<br />
-**🧮 Frameworks, Libraries, and Environments:** React, Next.JS Node.JS, Express, Axios, EJS, Rails, Ajax, jQuery, SASS, Bootstrap<br />
-**📚 Systems and Databases:** SQL, PostgreSQL, Git, GitHub<br />
+**🧮 Frameworks, Libraries, and Environments:** React, Next.JS Node.JS, Express, Axios, EJS, Rails, Ajax, jQuery, SASS, Bootstrap, Tailwind<br />
+**📚 Systems and Databases:** SQL, PostgreSQL, Prisma, Git, GitHub<br />
 **🧪 Testing:** Storybook, Cypress, Jest, Mocha, Chai<br />
 
 
