@@ -35,6 +35,7 @@ A full-stack developer focused on puzzles and problem solving, with a background
 
 <br />
 
+- 💼 Portfolio: <a href="https://www.mariogutierrez.dev/"> mariogutierrez.dev </a>
 - 📫 How to reach me: ✉️ <davique@gmail.com>
 - Vancouver, BC, Canada
 
